@@ -1,0 +1,31 @@
+.leftFloat {
+  float: left;
+  padding-left: 250px;
+  padding-right: 5%;
+}
+
+.rightFloat {
+  float: right;
+  padding-right: 250px;
+  padding-left: 5%;
+}
+
+#achievements {
+  padding-top: 65px;
+}
+
+.background {
+  float: left;
+  padding-left: 250px;
+  padding-right: 5%;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+  float: left;
+}
+
+p {
+  padding-left: 50px;
+}
